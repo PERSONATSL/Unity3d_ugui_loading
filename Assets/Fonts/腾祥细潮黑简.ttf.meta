@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9120f97f3895a1b44917c49afce0e207
+timeCreated: 1522034468
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tensentype XiChaoHeiJ
+  fontNames:
+  - Tensentype XiChaoHeiJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
